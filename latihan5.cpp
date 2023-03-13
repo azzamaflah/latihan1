@@ -20,6 +20,7 @@ string status2 (double rata,double nil) {
 
 int main () {
     double nilM,nilB;
+    //update
     //double rata;
     //string st;
     cout << "Masukan nilai Matematika= ";
