@@ -15,11 +15,9 @@ int main () {
     cout << "Masukan Lebarnya = ";
     //accept l
     cin >> l;
-
-
-   
+    //compute luas = p*l
+    Luas = p*l;
+    //display "luasnya = + luas"
+    cout << "Luasnya = " << Luas;
     //end
-
-    
-
 }
